@@ -1,0 +1,6 @@
+projectKey=Sonarlint_DeployProject_deepika
+serverUrl=http://172.27.59.122:8081
+serverVersion=8.9.2.46101
+dashboardUrl=http://172.27.59.122:8081/dashboard?id=Sonarlint_DeployProject_deepika
+ceTaskId=AXzbBhU2phkX0affELWl
+ceTaskUrl=http://172.27.59.122:8081/api/ce/task?id=AXzbBhU2phkX0affELWl
